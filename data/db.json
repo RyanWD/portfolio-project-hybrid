@@ -1,0 +1,1426 @@
+{
+  "wods": [
+    {
+      "id": 1,
+      "title": "Popeye",
+      "workout": "3 Rounds Without Breaking | 30 Curls (2x25/15 lb) | 30 Strict Presses (2x25/15 lb) | 30 Lateral Raises (2x25/15 lb) | 30 Hammer Curls (2x25/15 lb) | 30 Upright Rows (2x25/15 lb) | 30 Push Presses (2x25/15 lb) | 30 Curls (2x25/15 lb) | 1 minute Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 2,
+      "title": "McGhee",
+      "workout": "AMRAP in 30 minutes | 5 Deadlifts (275/185 lb) | 13 Push-Ups | 9 Box Jumps (24/20 in)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 3,
+      "title": "Melt Programming MetCon 08/09/2024",
+      "workout": "EMOM x 32 | 1) 14 DB Goblet Squat (60/40 lb) | 2) 14 DB Strict Shoulder Press (40/20 lb) | 3) 8/8 DB Single Arm Bent Over Row (60/40 lb) | 4) 12 DB Chest Press (50/35 lb) | 5) 8 DB Hammer Curl (30/15 lb) + 8 DB Tricep Overhead Extension (60/40 lb) | 6) 15 GHD Sit Up OR 20 Straight Leg Sit Up | 7) :50 Max Calories - Any Machine | 8) Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 4,
+      "title": "Death Race",
+      "workout": "5 Rounds for Time | 15/10 calorie Assault Bike | 10 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 5,
+      "title": "The Man in the Red Bandana",
+      "workout": "For Time | Buy-In: 2,001 meter Bike Erg |  | Directly into, 3 Rounds of: | 9 Devil Presses (2x50/35 lb) | 11 Dumbbell Thrusters (2x50/35 lb) | 24 Dumbbell Facing Burpees |  | Then, perform: | 78 Push-Ups | 343 Air Squats |  | Cash-Out: 2,001 meter Bike Erg |  | Wear a Weight Vest (20/14 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 6,
+      "title": "9/11 Partner Workout",
+      "workout": "For Time (with a Partner) | Buy-In: 2,001 meter Row |  | Directly into, 4 Rounds of: | 9 Rope Climbs | 11 Bear Complexes (135/95 lb)* |  | Cash-Out: 2,977 meter Row |  | *1 Bear Complex consists of: 1 Power Clean, 1 Front Squat, 1 Push Press, 1 Back Squat, and 1 Push Press",
+      "type": "Crossfit"
+    },
+    {
+      "id": 7,
+      "title": "Sixy",
+      "workout": "20 min AMRAP | 6 DB Alt Arm Snatch | 6 Burpees | 6 KB Russian Swings | 6 Lunges | 6 H/R Push ups | 6 cal Row* |  | *Add 6 calories on the Row after each round.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 8,
+      "title": "Donny",
+      "workout": "21-15-9-9-15-21 Reps, For Time | Deadlifts (225/155 lb) | Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 9,
+      "title": "FrankenWOD",
+      "workout": "4 Rounds (in a Team of 3) for Max Reps | Station 1: Run 200 meters, 50 Double-Unders | Station 2: Max Reps of Squat Cleans (135/95 lb) | Station 3: Max Reps of Handstand Push-Ups |  | After the partner in station 1 completes the Double-Unders, each partner rotates to the next station.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 10,
+      "title": "Marine 16",
+      "workout": "Eight 2-minute AMRAPs in 16 minutes | AMRAP from 0:00-2:00 | 20 meter Sprint | 16 Burpees |  | AMRAP from 2:00-4:00: | 20 meter Sprint | 16 Push-Ups |  | AMRAP from 4:00-6:00: | 20 meter Sprint | 16 Air Squats |  | AMRAP from 6:00-8:00: | 20 meter Sprint | 16 Mountain Climbers |  | AMRAP from 8:00-10:00: | 20 meter Sprint | 16 Jumping Jacks |  | AMRAP from 10:00-12:00: | 20 meter Sprint | 16 Jumping Lunges |  | AMRAP from 12:00-14:00: | 20 meter Sprint | 16 High Knees |  | AMRAP from 14:00-16:00: | 20 meter Sprint | 16 Tuck Jumps",
+      "type": "Crossfit"
+    },
+    {
+      "id": 11,
+      "title": "Bergeron Beep Test",
+      "workout": "EMOM for as Long as Possible | 7 Thrusters (75/55 lb) | 7 Pull-Ups | 7 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 12,
+      "title": "Ellen",
+      "workout": "3 Rounds for Time | 20 Burpees | 21 Alternating Dumbbell Snatches (50/35 lb) | 12 Dumbbell Thrusters (2x50/35 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 13,
+      "title": "Zeus",
+      "workout": "3 Rounds For Time | 30 Wall Ball Shots (20/14 lb) | 30 Sumo Deadlift High-Pull (75/55 lb) | 30 Box Jump (20 in) | 30 Push Presses (75/55 lb) | 30 calorie Row | 30 Push-Ups | 10 Back Squats (Bodyweight)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 14,
+      "title": "Clovis",
+      "workout": "For Time | 10 mile Run | 150 Burpee Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 15,
+      "title": "Christine",
+      "workout": "3 Rounds for Time | 500 meter Row | 12 Deadlifts (Bodyweight) | 21 Box Jumps (24/20 in)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 16,
+      "title": "Open 21.1",
+      "workout": "For Time | 1-3-6-9-15-21 Wall Walks | 10-30-60-90-150-210 Double-Unders |  | Time Cap: 15 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 17,
+      "title": "Sept 11 Tribute",
+      "workout": "For Time | 2,563 meter Row | 343 Burpees | 71 calorie Echo Bike",
+      "type": "Crossfit"
+    },
+    {
+      "id": 18,
+      "title": "Painstorm XXI",
+      "workout": "For time | 30 Burpees | 30 Deadlifts | 30 Burpees | 30 Cleans | 30 Burpees | 30 Single-Arm Strict Presses (alternating) | 30 Burpees | 30 Push Presses | 30 Burpees | 30 Push Jerks | 30 Burpees | 30 Dumbbell Swings | 30 Burpees | 30 Sumo Deadlift HIgh-Pulls | 30 Burpees | 30 Snatches (Left Hand) | 30 Burpees | 30 Snatches (Right Hand) | 30 Burpees | 30 Man Makers |  | Use one pair of Dumbbells (50/35 lb) throughout",
+      "type": "Crossfit"
+    },
+    {
+      "id": 19,
+      "title": "Open 24.1",
+      "workout": "For Time: | 21 Dumbbell Snatches (arm 1) (50/35 lb) | 21 Lateral Burpees Over Dumbbell | 21 Dumbbell Snatches (arm 2) (50/35 lb) | 21 Lateral Burpees Over Dumbbell | 15 Dumbbell Snatches (arm 1) (50/35 lb) | 15 Lateral Burpees Over Dumbbell | 15 Dumbbell Snatches(arm 2) (50/35 lb) | 15 Lateral Burpees Over Dumbbell | 9 Dumbbell Snatches (arm 1) (50/35 lb) | 9 Lateral Burpees Over Dumbbell | 9 Dumbbell Snatches (arm 2) (50/35 lb) | 9 Lateral Burpees Over Dumbbell |  | Time Cap: 15 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 20,
+      "title": "9/11 Team WOD",
+      "workout": "Partner 1 | Max calorie Row (or Bike or Ski)* |  | Partner 2 | 9 Bar Facing Burpees | 11 Thrusters (95/65 lb) | 23 Double-Unders |  | Partners switch after each round's Double-Unders are completed.  |  | *Continue until 343 total calories have been accumulated |  | 30 minute time cap",
+      "type": "Crossfit"
+    },
+    {
+      "id": 21,
+      "title": "The Longest Mile",
+      "workout": "4 Rounds for Time | 10 Burpees | 100 meter Run | 10 Air Squats | 100 meter Run | 10 Push-Ups | 100 meter Run | 10 Sit-Ups | 100 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 22,
+      "title": "The Fire Chief",
+      "workout": "Every 3 minutes (for 6 Rounds) in 18 minutes | 6 Burpees | 18 Alternating Dumbbell Snatches (50/35 lb) | 7 Toes-to-Bars | 9 Goblet Squats (50/35 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 23,
+      "title": "Daniel Brethel",
+      "workout": "24-18-12-6 Reps for Time | Burpee Box Jumps (24/20 in) | Abmat Sit-Ups with Medicine Ball (20/14 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 24,
+      "title": "McCartney",
+      "workout": "For Time (in a team of 3): | 2,000 meter Row | 14 Dumbbell Thrusters (2 x 50/35 lb) | 34 Kettlebell Swings (70/53 lb) | 484 Double-Unders | 108 Burpees | 2,000 meter Row | 18 Deadlifts (225/155 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 25,
+      "title": "Stand Tall",
+      "workout": "As Many Reps as Possible in 8 minutes: |  | Burpees x 2,4,6,8,etc. |  | Cleans x 1,2,3,4,etc. @165/115",
+      "type": "Crossfit"
+    },
+    {
+      "id": 26,
+      "title": "All Remembered 9/11",
+      "workout": "For Time (with a Partner) | 749 meter Row | 100 Deadlifts (135/95 lb) | 749 meter Row | 100 Power Cleans (95/65 lb) | 749 meter Row | 100 Ground-to-Overheads (65/45 lb) | 750 meter Row | 60 Double-Unders | 43 Burpees | 8 Squat Clean Thrusters (135/95 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 27,
+      "title": "Glass Shoulders",
+      "workout": "For Time | 50 Bench Presses (185/135 lb) | 50 calorie Row | 50 Strict Handstand Push-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 28,
+      "title": "Dirty Thirty",
+      "workout": "For Time | 30 Box Jumps (24/20 in) | 30 Jumping Pull-Ups | 30 Kettlebell Swings (35/26 lb) | 30 Lunges | 30 Knees-to-Elbows | 30 Push Presses (45/35 lb) | 30 Back Extensions | 30 Wall Ball Shots (20/14 lb) | 30 Burpees | 30 Double-Unders |  | Time Cap: 30 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 29,
+      "title": "Lynne",
+      "workout": "As Many Repetitions as Possible in 5 Rounds of: | Max Bench Press (bodyweight) | Max Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 30,
+      "title": "I GO YOU GO",
+      "workout": "In Teams of 2 |  | 20 Rounds | 3 Bar Facing Burpees | 3 Power Cleans | 3 Front Squats | 3 Push Jerks | 3 Bar Facing Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 31,
+      "title": "Melt Programming MetCon 08/24/2024",
+      "workout": "Every 2 Minutes x 24 Minutes | 1) 12 American KB Swing + 12 Russian KB Swing + 12 KB Reverse Lunge (53/35 lb) | 2) 400m/300m Run | 3) 16 Burpee Box Jump Over (24/20 in) | 4) 16 GHD Sit Up OR 16 Toes to Bar + 1 Round of Cindy | *Cindy = 5 pull up, 10 push up, 15 air squat",
+      "type": "Crossfit"
+    },
+    {
+      "id": 32,
+      "title": "Andi",
+      "workout": "For Time | 100 Hang Power Snatches (65/45 lb) | 100 Push Presses (65/45 lb) | 100 Sumo Deadlift High-Pulls (65/45 lb) | 100 Front Squats (65/45 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 33,
+      "title": "Nicole",
+      "workout": "AMRAP in 20 minutes | 400 meter Run | Max Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 34,
+      "title": "Oh No Curtis P",
+      "workout": "For Time | 100 Curtis P&#039;s (105/70 lb) |  | One &quot;Curtis P&quot; complex is comprised of one Power Clean, one Lunge (each leg), and one Push Press.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 35,
+      "title": "Durante Core",
+      "workout": "5 Rounds for Time | 10 Hollow Rocks | 10 V-Ups | 10 Tuck Ups | 10 second Hollow Hold | 1 minute Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 36,
+      "title": "Jerry",
+      "workout": "For Time | 1 mile Run | 2,000 meter Row | 1 mile Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 37,
+      "title": "Fortitude",
+      "workout": "Alternating Minutes for 15 Rounds in 30 minutes | Even Minutes: 15/12 Calorie Row | Odd Minutes: 15 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 38,
+      "title": "Telliskivi",
+      "workout": "For Time | Buy-In: 1,000 meter Run |  | Then, AMRAP in 35 minutes: | 5 Burpees | 10 Wall Ball Shots (20/14 lb) | 15 calorie Row | 20 Sandbag Lunges (60/40 lb) | 25 Sit-Ups | 30 meter Farmer&#039;s Carry (2x50/35 lb) |  | Cash-Out: 1,000 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 39,
+      "title": "COACH IVAN 30/07/24 HYROX",
+      "workout": "Warm Up | 1600mt run / 2000mt row men /1600mt row woman |  | EMOM | 1 minute: 10 Push Up Hr | 2 minute: 10 Wall Ball (9/6kg) | 3 minute: 10 Burpees | 4 minute: 10 Air Squat | 5 minute: 10 Pull Up |  | 1 minute: 12 Push Up Hr | 2 minute: 12 Wall Ball  (9/6kg) | 3 minute: 12 Burpees | 4 minute: 12 Air Squat | 5 minute: 12 Pull Up |  | 1 minute: 14 Push Up Hr | 2 minute: 14 Wall Ball   (9/6kg) | 3 minute: 14 Burpees  | 4 minute: 14 Air Squat | 5 minute: 14 Pull Up |  | EVERY 5&#039; INCREASE 2 REP REP TO EXERCISES, when you don&#039;t stay within the minute, in any exercise, transform the wod into Amrap until you reach 40&#039;",
+      "type": "Crossfit"
+    },
+    {
+      "id": 40,
+      "title": "9/11 Tribute",
+      "workout": "For Time | Buy-In: 2,001 meter Ruck Run (40/20 lb) |  | Then, 9 Rounds of: | 11 Ruck Box Step-Ups (40/20 lb, 24/20 in) | 11 Rush Thrusters (40/20 lb) | 11 Sandbag Bent Over Rows (40/20 lb) | 11 Ruck Power Cleans (40/20 lb) | 11 Ruck Push-Ups (40/20 lb) | 11 Ruck Swings (40/20 lb) | 11 Ruck V-Ups (40/20 lb) | 11 Ruck Deadlifts (40/20 lb) | 11 Ruck Push Jerks (40/20 lb) |  | Cash-OutL 2,001 meter Ruck Run (40/20 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 41,
+      "title": "Open 17.1",
+      "workout": "For Time | 10 Dumbbell Snatches (50/35 lb) | 15 Burpee Box Jump Overs | 20 Dumbbell Snatches (50/35 lb) | 15 Burpee Box Jump Overs | 30 Dumbbell Snatches (50/35 lb) | 15 Burpee Box Jump Overs | 40 Dumbbell Snatches (50/35 lb) | 15 Burpee Box Jump Overs | 50 Dumbbell Snatches (50/35 lb) | 15 Burpee Box Jump Overs |  | Time Cap: 20 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 42,
+      "title": "12 Days of Christmas",
+      "workout": "For Time, adding one movement per round: | 1 Sumo Deadlift High-Pull (75/55 lb) | 2 Thrusters (75/55 lb) | 3 Push Presses (75/55 lb) | 4 Power Cleans (75/55 lb) | 5 Power Snatches (75/55 lb) | 6 Kettlebell Swings (53/35 lb) | 7 Pull-Ups | 8 Knees-to-Elbows | 9 Box Jumps (24/20 in) | 10 Double-Unders | 11 Burpees | 12 Overhead Walking Lunges (45/25 lb Plate) |  | Start with 1 Sumo Deadlift High-Pull (SDLHP). Then do 2 Thrusters and 1 SDLHP. Then 3 Push Presses, 2 Thrusters, and 1 SDLHP. Continue this way until the final round of 12 Overhead Walking Lunges, 11 Burpees, and each movement descending in repetitions all the way down to 1 SDLHP \u00e2\u20ac\u201d 364 total repetitions.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 43,
+      "title": "Whitten",
+      "workout": "5 Rounds For Time | 22 Kettlebell Swings (2/1.5 pood) | 22 Box Jumps (24/20 in) | 400 meter Run | 22 Burpees | 22 Wall Ball Shots (10/9 ft, 20/14 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 44,
+      "title": "Triple 3",
+      "workout": "For Time | 3,000 meter Row | 300 Double-Unders | 3 mile Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 45,
+      "title": "Glen",
+      "workout": "For Time | 30 Clean-and-Jerks (135/95 lb) | 1 mile Run | 10 Rope Climbs (15 ft) | 1 mile Run | 100 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 46,
+      "title": "Morrison",
+      "workout": "50-40-30-20-10 Reps For Time | Wall Ball Shots (20/14 lb) | Box Jumps (24/20 in) | Kettlebell Swings (1.5/1 pood)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 47,
+      "title": "Ingrid",
+      "workout": "10 Rounds for Time | 3 Snatches (135/95 lb) | 3 Bar Over Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 48,
+      "title": "Death By Assault",
+      "workout": "EMOM For as Long as Possible | Ascending Assault Bike calories |  | Start with 3 calories. Add 3 calories every minute until failure.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 49,
+      "title": "Manion",
+      "workout": "7 Rounds For Time | 400 meter Run | 29 Back Squats (135/95 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 50,
+      "title": "Super Legs",
+      "workout": "5 Rounds for Time | 20 Air Squats | 20 Alternating Lunges | 20 Alternating Split Squat Jumps | 10 Squat Jumps",
+      "type": "Crossfit"
+    },
+    {
+      "id": 51,
+      "title": "Zero to 60",
+      "workout": "For Time (With a Partner) | 60 Russian KB Swings | 60 Burpees | 60 Russian KB Swings | 60 KB Box Step-overs  | 60 Russian KB Swings | 60 Burpee to KB Box Step-overs | 60 Russian KB Swings",
+      "type": "Crossfit"
+    },
+    {
+      "id": 52,
+      "title": "Mary",
+      "workout": "AMRAP in 20 minutes | 5 Handstand Push-Ups | 10 Pistols (alternating legs) | 15 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 53,
+      "title": "Hotel Hell",
+      "workout": "For Time | 100 Dumbbell Hang Clean Thrusters (2x35/25 lb) |  | 5 Burpees to start, and at the top of each minute",
+      "type": "Crossfit"
+    },
+    {
+      "id": 54,
+      "title": "Open 22.2",
+      "workout": "For Time | 1-2-3-4-5-6-7-8-9-10-9-8-7-6-5-4-3-2-1 Reps of: | Deadlifts (225/155 lb) | Bar-Facing Burpees |  | Time Cap: 10 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 55,
+      "title": "Cooper",
+      "workout": "10 Rounds for Time | 10 Burpees | 10 Air Squats | 10 Push-Ups | 10 Sit-Ups |  | Time Cap: 30 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 56,
+      "title": "Baseline",
+      "workout": "For Time | 500 meter Row | 40 Air Squats | 30 Sit-Ups | 20 Push-Ups | 10 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 57,
+      "title": "Beverly Hills",
+      "workout": "AMRAP in 25 minutes | Complete 5 rounds of: | 40 second Max Wall Ball Shots (20/14 lb) | 20 second Rest | 40 second Max Calorie Ski Erg | 20 second Rest | 40 second Max Lunges | 20 second Rest | 40 second Max Burpees | 20 second Rest | 40 second Max V-Ups | 20 second Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 58,
+      "title": "31 Heroes",
+      "workout": "AMRAP (with a Partner) in 31 minutes | Partner A performs AMRAP of: | 8 Thrusters (155/105 lb) | 6 Rope Climbs (15 ft) | 11 Box Jumps (30/24 in) |  | While Partner B performs: | 400 meter Sandbag Run (45/25 lb) |  | Partners switch after each Run.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 59,
+      "title": "Flight Simulator",
+      "workout": "For Time | 5-10-15-20-25-30-35-40-45-50-45-40-35-30-25-20-15-10-5 | Unbroken Double-Unders",
+      "type": "Crossfit"
+    },
+    {
+      "id": 60,
+      "title": "The Payne Train",
+      "workout": "For Time | 300 meter Run | 5 Rounds of Cindy* | 300 meter Run | 4 Rounds of Cindy* | 300 meter Run | 3 Rounds of Cindy* | 300 meter Run | 2 Rounds of Cindy* | 300 meter Run | 1 Round of Cindy* | 300 meter Run |  | *1 Round of Cindy consists of 5 Pull-Ups, 10 Push-Ups, and 15 Air Squats.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 61,
+      "title": "Bordesley",
+      "workout": "For Time | 400 meter Row | 30 Wall Ball Shots (20/14 lb) | 400 meter Run | 30 Burpees | 400 meter Row | 30 Sandbag Lunges (60/40 lb) | 400 meter Run | 30 Hand Release Push-Ups | 400 meter Row | 100 meter Farmer&#039;s Carry (2x50/35 lb) | 400 meter Run | 100 Sit-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 62,
+      "title": "Death By\u00e2\u20ac\u00a6Anything",
+      "workout": "EMOM For as Long as Possible | 1 Rep in the first minute | 2 Reps in the second minute | 3 Reps in the third minute | etc.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 63,
+      "title": "Eva",
+      "workout": "5 Rounds For Time | 800 meter Run | 30 Kettlebell Swings (2/1.5 pood) | 30 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 64,
+      "title": "Randy",
+      "workout": "For Time | 75 Power Snatches (75/55 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 65,
+      "title": "The Kabul Thirteen",
+      "workout": "For Time | 20 Deadlifts  (75/55 lb) | 23 Hang Power Cleans (75/55 lb)  | 31 Front Squats (75/55 lb) | 23 Push Presses (75/55 lb) | 22 Box Jump Overs  (24/20 in) | 20 Butterfly Sit-Ups  | 20 Reverse Step Lunges  | 20 Pull-Ups  | 23 Goblet Squats (53/35 lb) | 25 American Kettlebell Swings (53/35 lb) | 22 Power Snatches (75/55 lb) | 20 Overhead Squats (75/55 lb) | 22 Thrusters (75/55 lb) |  | Perform 13 Burpees after each movement.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 66,
+      "title": "Barbara",
+      "workout": "5 Rounds For Time | 20 Pull-Ups | 30 Push-Ups | 40 Sit-Ups | 50 Air Squats | 3 minutes Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 67,
+      "title": "Angie",
+      "workout": "For Time | 100 Pull-Ups | 100 Push-Ups | 100 Sit-Ups | 100 Air Squats",
+      "type": "Crossfit"
+    },
+    {
+      "id": 68,
+      "title": "9/11 Tribute",
+      "workout": "For Time | Buy-In: 2,001 meter Row |  | Directly into: | 9 Wall Ball Shots (20/14 lb) | 11 Bar Facing Burpees | 9 Toes-to-Bar | 11 Bar Facing Burpees | 9 Snatches (175/125 lb) | 11 Bar Facing Burpees | 9 Box Jumps (36/30 in) | 11 Bar Facing Burpees | 9 Chest-to-Bar Pull-Ups | 11 Bar Facing Burpees | 9 Deadlifts (175/125 lb) | 11 Bar Facing Burpees | 9 Push Jerks (175/125 lb) | 11 Bar Facing Burpees | 9 Bar Muscle-Ups | 11 Bar Facing Burpees | 9 Kettlebell Swings (70/53 lb) | 11 Bar Facing Burpees | 9 Cleans (175/125 lb) | 11 Bar Facing Burpees |  | Cash-Out: 343 Double-Unders",
+      "type": "Crossfit"
+    },
+    {
+      "id": 69,
+      "title": "Macho Man",
+      "workout": "EMOM for as Long as Possible | 3 Power Cleans (185/135 lb) | 3 Front Squats (185/135 lb) | 3 Jerks (185/135 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 70,
+      "title": "Fat Amy",
+      "workout": "For Time | 50 Air Squats | 10 Burpees | 40 Sit-Ups | 10 Burpees | 30 Lunges (alternating legs) | 10 Burpees | 20 Kettlebell Swings (1.5/1 pood) | 10 Burpees | 10 meter Bear Crawl | 10 Burpees | 20 Kettlebell Swings (1.5/1 pood) | 10 Burpees | 30 Lunges (alternating legs) | 10 Burpees | 40 Sit-Ups | 10 Burpees | 50 Air Squats",
+      "type": "Crossfit"
+    },
+    {
+      "id": 71,
+      "title": "Chelsea",
+      "workout": "EMOM for 30 minutes | 5 Pull-Ups | 10 Push-Ups | 15 Air Squats",
+      "type": "Crossfit"
+    },
+    {
+      "id": 72,
+      "title": "Goose",
+      "workout": "For Time (with a Partner): |  | 106 Deadlifts (135/95 lb) |  | Then, 7 rounds of: | 3 Rope Climbs (15 ft) | 15 Thrusters (135/95 lb) | 15 Kettlebell Swings (70/53 lb) |  | Then, 400 meter Run with a plate (together, both partners carry a plate (45/25 lb))",
+      "type": "Crossfit"
+    },
+    {
+      "id": 73,
+      "title": "Chipper",
+      "workout": "For Time (with a Partner) | 30 Pull-Ups | 50 Wall Ball Shots | 50 Sit-Ups | 100 Kettlebell Swings |  | Perform every two minutes: | 10 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 74,
+      "title": "Only 30 min",
+      "workout": "AMRAP in 30 minutes | From 0:00-5:00, AMRAP of: | 3 Bar Muscle-Ups | 6 Toes-to-Bars | 9 Air Squats |  | From 5:00-10:00, AMRAP of: | 3 Thrusters (110/75 lb) | 6 Front Squats (110/75 lb) | 9 Bar Facing Burpees |  | From 10:00-15:00, AMRAP of: | 3 Devil Presses (2x50/35 lb) | 6 Dumbbell Front Rack Reverse Lunges (2x50/35 lb) | 9 Box Jump Overs (24/20 in) |  | Repeat 2x",
+      "type": "Crossfit"
+    },
+    {
+      "id": 75,
+      "title": "Bradshaw",
+      "workout": "10 Rounds for Time | 3 Handstand Push-Ups | 6 Deadlift (225/155 lb) | 12 Pull-Ups | 24 Double-Unders",
+      "type": "Crossfit"
+    },
+    {
+      "id": 76,
+      "title": "Elizabeth",
+      "workout": "21-15-9 Reps For Time | Cleans (135/95 lb) | Ring Dips",
+      "type": "Crossfit"
+    },
+    {
+      "id": 77,
+      "title": "Grettel",
+      "workout": "10 Rounds for Time | 3 Clean-and-Jerks (135/95 lb) | 3 Bar-Over Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 78,
+      "title": "Full Body #24",
+      "workout": "Three 6-minute AMRAPs in 20 minutes | From 0:00-6:00, AMRAP of: | 10 Dumbbell Bent Over Rows (50/35 lb) | 10 Dumbbell Ground-to-Overheads (50/35 lb) | 10 Up-Downs + Mountain Climbers |  | Rest 1 minute |  | From 7:00-13:00, AMRAP of: | 8 Dumbbell Bent Over Rows (50/35 lb) | 8 Dumbbell Ground-to-Overheads (50/35 lb) | 10 Up-Downs + Mountain Climbers |  | Rest 1 minute |  | From 14:00-20:00, AMRAP of: | 6 Dumbbell Bent Over Rows (50/35 lb) | 6 Dumbbell Ground-to-Overheads (50/35 lb) | 10 Up-Downs + Mountain Climbers",
+      "type": "Crossfit"
+    },
+    {
+      "id": 79,
+      "title": "Wyck",
+      "workout": "For Time | 400 meter Run | 20 Burpees | 600 meter Run | 40 Wall Ball Shots (20/14 lb) | 800 meter Run | 60 Sandbag Lunges (60/40 lb) | 1,000 meter Run | 60 Sandbag Lunges (60/40 lb) | 800 meter Run | 40 Wall Ball Shots (20/14 lb) | 600 meter Run | 20 Burpees | 400 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 80,
+      "title": "Lumberjack 20",
+      "workout": "For Time | 20 Deadlifts (275/185 lb) | 400 meter Run | 20 Kettlebell Swings (2/1.5 pood) | 400 meter Run | 20 Overhead Squats (115/75 lb) | 400 meter Run | 20 Burpees | 400 meter Run | 20 Chest-to-Bar Pull-Ups | 400 meter Run | 20 Box Jumps (24/20 in) | 400 meter Run | 20 Dumbbell Squat Cleans (45/35 lb) | 400 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 81,
+      "title": "The Lou",
+      "workout": "44 Rounds For Time (with a Partner): | 4 Wall Balls (20/14 lb) | 4 Pull-Ups | 4 Burpees | 4 Dumbbell Snatches (50/35 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 82,
+      "title": "Linchpin Test 13",
+      "workout": "For Time | 400 meter Run* | 20-19-18-17-16-15-14-13-12-11-10-9-8-7-6-5-4-3-2-1 Burpees |  | Wear a Weight Vest (20/14 lb) |  | *Perform the 400 meter Run before each set of Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 83,
+      "title": "Wyk",
+      "workout": "5 Rounds for Time | 5 Front Squats (225/155 lb) | 5 Rope Climbs (15 ft) | 400 meter Run (45/35 lb plate)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 84,
+      "title": "Badger",
+      "workout": "3 Round For Time | 30 Squat Cleans (95/65 lb) | 30 Pull-Ups | 800 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 85,
+      "title": "9/11 Tribute",
+      "workout": "For Time | 2001 meter Run | 11 Box Jumps (30/24 in) | 11 Thrusters (125/85 lb) | 11 Chest-to-Bar Pull-Ups | 11 Power Cleans (175/115 lb) | 11 Handstand Push-Ups | 11 Kettlebell Swings (2/1.5 pood) | 11 Toes-to-Bars | 11 Deadlifts (170/115 lb) | 11 Push Jerks (110/75 lb) | 2001 meter Row",
+      "type": "Crossfit"
+    },
+    {
+      "id": 86,
+      "title": "Lazar Dukic",
+      "workout": "For Time | 3 Rounds of: | 30 calorie Row | 10 Bar Muscle-Ups |  | Rest 3 minutes |  | Then, 3 Rounds of: | 30 calorie Row | 15 Strict Handstand Push-Ups |  | Rest 3 minutes |  | Finally, 3 rounds of: | 10 Bar Muscle-Ups | 15 Strict Handstand Push-Ups |  | Time Cap: 99 minutes",
+      "type": "Crossfit"
+    },
+    {
+      "id": 87,
+      "title": "DT",
+      "workout": "5 Rounds For Time | 12 Deadlifts (155/105 lb) | 9 Hang Power Cleans (155/105 lb) | 6 Push Jerks (155/105 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 88,
+      "title": "Loredo",
+      "workout": "6 Rounds For Time | 24 Air Squats | 24 Push-Ups | 24 Walking Lunge Steps | 400 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 89,
+      "title": "Cindy",
+      "workout": "AMRAP in 20 minutes | 5 Pull-Ups | 10 Push-Ups | 15 Air Squats",
+      "type": "Crossfit"
+    },
+    {
+      "id": 90,
+      "title": "Chad",
+      "workout": "For Time | 1,000 Box Step-Ups (20 in) |  | Wear a Ruck Pack (45/35 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 91,
+      "title": "Fran",
+      "workout": "21-15-9 Reps For Time | Thrusters (95/65 lb) | Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 92,
+      "title": "Bear Complex",
+      "workout": "5 Rounds For Load | Complete 7 Unbroken Sets of this Barbell complex: | 1 Power Clean | 1 Front Squat | 1 Push Press | 1 Back Squat | 1 Push Press",
+      "type": "Crossfit"
+    },
+    {
+      "id": 93,
+      "title": "Mikko\u00e2\u20ac\u2122s Triangle",
+      "workout": "EMOM for 39 minutes | 1 minute Row | 1 minute SkiErg | 1 minute Assault Bike | 1 minute Rest |  | Set a single number of calories and complete that amount of work each minute - every minute.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 94,
+      "title": "Hotshots 19",
+      "workout": "6 Rounds For Time | 30 Air Squats | 19 Power Cleans (135/95 lb) | 7 Strict Pull-Ups | 400 meter Run",
+      "type": "Crossfit"
+    },
+    {
+      "id": 95,
+      "title": "Kalsu",
+      "workout": "For Time | 100 Thrusters (135/95 lb) |  | 5 Burpees to start and at the top of every minute",
+      "type": "Crossfit"
+    },
+    {
+      "id": 96,
+      "title": "Grace",
+      "workout": "For Time | 30 Clean-and-Jerks (135/95 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 97,
+      "title": "Murph",
+      "workout": "For Time | 1 mile Run | 100 Pull-Ups | 200 Push-Ups | 300 Air Squats | 1 mile Run |  | Wear a Weight Vest (20/14 lb) |  | Partition the Pull-Ups, Push-Ups, and Air Squats as needed",
+      "type": "Crossfit"
+    },
+    {
+      "id": 98,
+      "title": "Alexander",
+      "workout": "5 Rounds for Time | 31 Back Squats (135/95 lb) | 12 Power Cleans (185/135 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 99,
+      "title": "Linda",
+      "workout": "10-9-8-7-6-5-4-3-2-1 Reps, For Time | Deadlift (1\u00c2\u00bd bodyweight) | Bench Press (bodyweight) | Clean (\u00c2\u00be bodyweight)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 100,
+      "title": "343",
+      "workout": "For Time | 100 Deadlifts (135/95 lb) | 100 Power Cleans (95/65) | 100 Ground-to-Overheads (65/45 lb) | 43 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 101,
+      "title": "Annie",
+      "workout": "50-40-30-20-10 Reps For Time | Double-Unders | Sit-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 102,
+      "title": "Helen",
+      "workout": "3 Rounds For Time | 400 meter Run | 21 Kettlebell Swings (1.5/1 pood) | 12 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 103,
+      "title": "Zachary Tellier",
+      "workout": "For Time | 10 Burpees |  | 10 Burpees | 25 Push-Ups |  | 10 Burpees | 25 Push-Ups | 50 Lunges |  | 10 Burpees | 25 Push-Ups | 50 Lunges | 100 Sit-Ups |  | 10 Burpees | 25 Push-Ups | 50 Lunges | 100 Sit-Ups | 150 Air Squats",
+      "type": "Crossfit"
+    },
+    {
+      "id": 104,
+      "title": "The Chief",
+      "workout": "Five 3-minute AMRAPs in 19 minutes |  | AMRAP in 3 minutes | 3 Power Cleans (135/95 lbs) | 6 Push-Ups | 9 Air Squats |  | 1 minute Rest after each 3-minute AMRAP |  | Repeat 5 times total",
+      "type": "Crossfit"
+    },
+    {
+      "id": 105,
+      "title": "Fight Gone Bad",
+      "workout": "3 Rounds For Total Reps in 17 minutes | 1 minute Wall Ball Shots (20/14 lb) | 1 minute Sumo Deadlift High-Pulls (75/55 lb) | 1 minute Box Jumps (20 in) | 1 minute Push Press (75/55 lb) | 1 minute Row (calories) | 1 minute Rest",
+      "type": "Crossfit"
+    },
+    {
+      "id": 106,
+      "title": "Jack",
+      "workout": "AMRAP in 20 minutes | 10 Push Presses (115/85 lb) | 10 Kettlebell Swings (1.5/1 pood) | 10 Box Jumps (24/20 in)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 107,
+      "title": "Isabel",
+      "workout": "For Time | 30 Snatches (135/95 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 108,
+      "title": "Kelly",
+      "workout": "5 Rounds For Time | 400 meter Run | 30 Box Jumps (24/20 in) | 30 Wall Ball Shots (20/14 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 109,
+      "title": "Filthy Fifty",
+      "workout": "For Time | 50 Box Jumps (24/20 in) | 50 Jumping Pull-Ups | 50 Kettlebell Swings (1/.75 pood) | 50 Walking Lunge Steps | 50 Knees-to-Elbows | 50 Push Presses (45/35 lb) | 50 Back Extensions | 50 Wall Ball Shots (20/14 lb) | 50 Burpees | 50 Double-Unders",
+      "type": "Crossfit"
+    },
+    {
+      "id": 110,
+      "title": "CrossFit Total",
+      "workout": "Sum of the best of 3 attempts at each lift: | Back Squat | Shoulder Press | Deadlift",
+      "type": "Crossfit"
+    },
+    {
+      "id": 111,
+      "title": "Nancy",
+      "workout": "5 Rounds For Time | 400 meter Run | 15 Overhead Squats (95/65 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 112,
+      "title": "Diane",
+      "workout": "21-15-9 Reps For Time | Deadlifts (225/155 lb) | Handstand Push-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 113,
+      "title": "Karen",
+      "workout": "For Time | 150 Wall Ball Shots (20/14 lb, 10/9 ft)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 114,
+      "title": "Amanda",
+      "workout": "9-7-5 Reps For Time | Muscle-Ups | Squat Snatches (135/95 lbs)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 115,
+      "title": "Jackie",
+      "workout": "For Time | 1,000 meter Row | 50 Thrusters (45/35 lb bar) | 30 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 116,
+      "title": "Labor Day Bash",
+      "workout": "Partner 9 Rounds For Time:  | 5 Synchronized Thrusters @96/65 | 18 Hang Power Cleans @95/65 (split with partner as needed) | 8 Synchronized Burpees | 2 minutes x Max Calorie (pick your poison\u00e2\u20ac\u00a6row, ski or bike, split with partner as needed)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 117,
+      "title": "Bert",
+      "workout": "For Time | 50 Burpees | 400 meter Run | 100 Push-Ups | 400 meter Run | 150 Walking Lunges | 400 meter Run | 200 Air Squats | 400 meter Run | 150 Walking Lunges | 400 meter Run | 100 Push-Ups | 400 meter Run | 50 Burpees",
+      "type": "Crossfit"
+    },
+    {
+      "id": 118,
+      "title": "JT",
+      "workout": "21-15-9 Reps For Time | Handstand Push-Ups | Ring Dips | Push-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 119,
+      "title": "Nasty Girls",
+      "workout": "3 Rounds For Time | 50 Air Squats | 7 Muscle-Ups | 10 Hang Power Cleans (135/95 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 120,
+      "title": "The Seven",
+      "workout": "7 Rounds For Time | 7 Handstand Push-Ups | 7 Thrusters (135/95 lb) | 7 Knees-to-Elbows | 7 Deadlifts (245/165 lb) | 7 Burpees | 7 Kettlebell Swings (2/1.5 pood) | 7 Pull-Ups",
+      "type": "Crossfit"
+    },
+    {
+      "id": 121,
+      "title": "Holleyman",
+      "workout": "30 Rounds For Time | 5 Wall Ball Shots (20/14 lb) | 3 Handstand Push-Ups | 1 Power Clean (225/155 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 122,
+      "title": "Mogadishu Mile",
+      "workout": "4 Rounds for Time | 19 Kettlebell Ground-to-Overheads (53/35 lb) | 19 Kettlebell Front Squats (53/35 lb) | 19 Kettlebell Push-Ups (each hand) | 400 meter Kettlebell Run |  | If you lose physical contact with your Kettlebell, you must start that round over.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 123,
+      "title": "Gwen",
+      "workout": "15-12-9 Reps for Load | Clean-and-Jerks (unbroken) |  | Rest as needed between sets",
+      "type": "Crossfit"
+    },
+    {
+      "id": 124,
+      "title": "Nate",
+      "workout": "AMRAP in 20 minutes | 2 Muscle-Ups | 4 Handstand Push-Ups | 8 Kettlebell Swings (2/1.5 pood)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 125,
+      "title": "You Go I Go",
+      "workout": "AMRAP (with a Partner) in 12 minutes | 7 Burpees | 6/4 calorie Assault Airbike | 3 Right-Arm Dumbbell Hang Clean-and-Jerks (50/35 lb) | 3 Left-Arm Dumbbell Hang Clean-and-Jerks (50/35 lb) |  | Partners switch after each full round.",
+      "type": "Crossfit"
+    },
+    {
+      "id": 126,
+      "title": "Laura",
+      "workout": "AMRAP (with a Partner) in 21 minutes | 30 calorie Row | 20 Burpees Over Rower | 10 Power Cleans (155/105 lb)",
+      "type": "Crossfit"
+    },
+    {
+      "id": 127,
+      "title": "Beverly Hills",
+      "workout": "AMRAP in 25 minutes | Complete 5 rounds of: | 40 second Max Wall Ball Shots (20/14 lb) | 20 second Rest | 40 second Max Calorie Ski Erg | 20 second Rest | 40 second Max Lunges | 20 second Rest | 40 second Max Burpees | 20 second Rest | 40 second Max V-Ups | 20 second Rest",
+      "type": "Hyrox"
+    },
+    {
+      "id": 128,
+      "title": "Wyck",
+      "workout": "For Time | 400 meter Run | 20 Burpees | 600 meter Run | 40 Wall Ball Shots (20/14 lb) | 800 meter Run | 60 Sandbag Lunges (60/40 lb) | 1,000 meter Run | 60 Sandbag Lunges (60/40 lb) | 800 meter Run | 40 Wall Ball Shots (20/14 lb) | 600 meter Run | 20 Burpees | 400 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 129,
+      "title": "Bordesley",
+      "workout": "For Time | 400 meter Row | 30 Wall Ball Shots (20/14 lb) | 400 meter Run | 30 Burpees | 400 meter Row | 30 Sandbag Lunges (60/40 lb) | 400 meter Run | 30 Hand Release Push-Ups | 400 meter Row | 100 meter Farmer&#039;s Carry (2x50/35 lb) | 400 meter Run | 100 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 130,
+      "title": "Telliskivi",
+      "workout": "For Time | Buy-In: 1,000 meter Run |  | Then, AMRAP in 35 minutes: | 5 Burpees | 10 Wall Ball Shots (20/14 lb) | 15 calorie Row | 20 Sandbag Lunges (60/40 lb) | 25 Sit-Ups | 30 meter Farmer&#039;s Carry (2x50/35 lb) |  | Cash-Out: 1,000 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 131,
+      "title": "Changning",
+      "workout": "AMRAP in 30 minutes | 10 Burpee Broad Jumps | 20 Push-Ups | 30 Sandbag Lunges (60/40 lb) | 40 calorie Row",
+      "type": "Hyrox"
+    },
+    {
+      "id": 132,
+      "title": "Thompson",
+      "workout": "8 Rounds for Time | 25 meter Sled Push (as heavy as possible ) | 20 Alternating Lunges |  | Rest 2 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 133,
+      "title": "Cooper",
+      "workout": "10 Rounds For time: | 10 Burpees | 10 Air Squats | 10 Push-Ups | 10 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 134,
+      "title": "Flint",
+      "workout": "For Total Reps in 30 minutes | 0:00-2:00: 20 calorie Ski Erg | 2:00-4:00: 20 Burpees | 4:00-6:00: 20 calorie Row |  | Repeat 5x",
+      "type": "Hyrox"
+    },
+    {
+      "id": 135,
+      "title": "Lindenberg",
+      "workout": "5 Rounds For Total Reps in 22 min 20 sec | 40 second Max Burpees | 20 second Rest | 40 second Max Calorie Run | 20 second Rest | 40 second Max Wall Ball Shots (20/14 lb) | 20 second Rest | 40 second Max Calorie Row |  | Rest 1 minute",
+      "type": "Hyrox"
+    },
+    {
+      "id": 136,
+      "title": "Joel 2.0",
+      "workout": "For Load | As Heavy As Possible for 5 Rounds: | 5 Back Squats |  | Then, 3 Rounds for Time: | 250 meter SkiErg | 5 Devil Presses (2x50/35 lb) | 250 meter Row |  | Time Cap: 10 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 137,
+      "title": "Nicki",
+      "workout": "For Time | 15-10-5-10-15 calorie Ski | 15-10-5-10-15 Burpees | 400 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 138,
+      "title": "WCF 21.8",
+      "workout": "For Time | 1,000 meter Run | 100 Wall Ball Shots (9/6 kg)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 139,
+      "title": "WCF 21.7",
+      "workout": "For Time | 1,000 meter Run | 100 meter Sandbag Lunges (30/20 kg)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 140,
+      "title": "WCF 21.6",
+      "workout": "For Time | 1,000 meter Run | 200 meter Farmer&#039;s Carry (2x32/24 kg)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 141,
+      "title": "WCF 21.5",
+      "workout": "For Time | 1,000 meter Run | 1,000 meter Row",
+      "type": "Hyrox"
+    },
+    {
+      "id": 142,
+      "title": "WCF 21.4",
+      "workout": "For Time | 1,000 meter Run | 80 meter Burpee Broad Jumps",
+      "type": "Hyrox"
+    },
+    {
+      "id": 143,
+      "title": "WCF 21.3",
+      "workout": "For Time | 1,000 meter Run | 50 meter Sled Pull (125/75 kg)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 144,
+      "title": "WCF 21.2",
+      "workout": "For Time | 1,000 meter Run | 50 meter Sled Push (175/125 kg)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 145,
+      "title": "WCF 21.1",
+      "workout": "For Time | 1,000 meter Run | 1,000 meter SkiErg",
+      "type": "Hyrox"
+    },
+    {
+      "id": 146,
+      "title": "Everly",
+      "workout": "AMRAP in 45 minutes | From 0:00-15:00, AMRAP of: | 20 Burpee Broad Jumps | 400 meter Run |  | Rest 1 minute |  | From 16:00-30:00, AMRAP of: | 20 Sandbag Lunges (10/60 lb) | 400 meter Row |  | Rest 1 minute |  | From 31:00-45:00, AMRAP of: | 20 Wall Ball Shots (20/14 lb) | 400 meter Ski Erg",
+      "type": "Hyrox"
+    },
+    {
+      "id": 147,
+      "title": "Crosby",
+      "workout": "5 Rounds for Time | 1,000 meter Run | 30 Wall Ball Shots (20/14 lb) |  | Time Cap: 40 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 148,
+      "title": "Keith",
+      "workout": "For Total Distance | From 0:00-9:00, every 90 seconds complete: | 25 meter Sled Push |  | From 9:00-18:00, every 90 seconds complete: | 12.5 meter Sled Pull",
+      "type": "Hyrox"
+    },
+    {
+      "id": 149,
+      "title": "Gonzalez",
+      "workout": "EMOM for 30 minutes | Minute 1: 15 Wall Ball Shots (20/14 lb) | Minute 2: 15 calorie Ski Erg | Minute 3: 10 Singe Arm Devil Presses (53/35 lb) | Minute 4: 200 meter Run | Minute 5: Rest |  | Repeat 6x",
+      "type": "Hyrox"
+    },
+    {
+      "id": 150,
+      "title": "Hetfield",
+      "workout": "For Load: | 5 Rounds of 5 Back Squats (increase weight each round) |  | Then, 30-20-10-20-30 Reps for Time of: | Calorie Ski | Air Squats | Burpees |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 151,
+      "title": "Joplin",
+      "workout": "For Time | 1,000 meter Run |  | Then, 2 Rounds of: | 10 Push-Ups | 20 Burpees | 30 Sandbag Lunges (150/100 lb) |  | 1,000 meter Run |  | Time Cap: 20 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 152,
+      "title": "Miller",
+      "workout": "EMOM for 20 minutes | Minute 1: 20/15 calorie Row | Minute 2: 20/15 Wall Ball Shots (20/14 lb) | Minute 3: 20/15 Burpees | Minute 4: Rest |  | Repeat 5x",
+      "type": "Hyrox"
+    },
+    {
+      "id": 153,
+      "title": "Roberts",
+      "workout": "2 Rounds for Time (with a Partner) | 200 meter Run / Air Squats | 200 meter Run / Burpees | 200 meter Run / Hand Release Push-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 154,
+      "title": "Kane",
+      "workout": "AMRAP in 16 minutes | 15 Air Squats | 10 Sit-Ups | 5 Walkouts to Push-Ups |  | Every 2 minutes, complete: | 3 Burpees",
+      "type": "Hyrox"
+    },
+    {
+      "id": 155,
+      "title": "Johnson",
+      "workout": "AMRAP in 45 minutes | 1,000 meter Run | 20 Burpee Broad Jumps | 1,000 meter Row | 40 Walking Lunges | 1,000 meter Ski Erg | 20 Hand Release Push-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 156,
+      "title": "Cliff",
+      "workout": "8 Rounds for Total Reps in 32 minutes | 40 second Max Calorie Ski | 20 second Rest | 40 second Max Burpees | 20 second Rest | 40 second Max Calorie Row | 20 second Rest | 40 second Max Wall Ball Shots (20/14 lb)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 157,
+      "title": "Nelson",
+      "workout": "EMOM for 30 minutes | Minute 1: 15 Wall Ball Shots (20/14 lb) | Minute 2: 10 Burpee Broad Jumps | Minute 3: 15 calorie Ski Erg | Minute 4: 20 Lunges | Minute 5: Rest |  | Repeat 6x",
+      "type": "Hyrox"
+    },
+    {
+      "id": 158,
+      "title": "Holly",
+      "workout": "AMRAP in 20 minutes | 5-10-15-20-25 calorie Row | 10-20-30-40-50 Wall Ball Shots (20/14 lb)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 159,
+      "title": "Reed",
+      "workout": "5 Rounds for Total Reps in 20 minutes | 1 minute Max Calorie Row | 1 minute Max Air Squats | 1 minute Max Calorie SkiErg | 1 minute Max Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 160,
+      "title": "Knight",
+      "workout": "AMRAP (with a Partner) in 30 minutes | 1,000 meter Ski Erg | 1,000 meter Row | 50 Burpee Broad Jumps",
+      "type": "Hyrox"
+    },
+    {
+      "id": 161,
+      "title": "Nash",
+      "workout": "Three 10-minute EMOMs for 34 minutes | From 0:00-10:00, EMOM of: | 15 Wall Ball Shots (20/14 lb) |  | Rest 2 minutes |  | From 12:00-22:00, EMOM of: | 10 Burpee Broad Jumps |  | Rest 2 minutes |  | From 24:00-34:00, EMOM of: | 12 calorie Row",
+      "type": "Hyrox"
+    },
+    {
+      "id": 162,
+      "title": "Baker",
+      "workout": "For Time (with a Partner) | 1,000 meter Run / Burpee Broad Jumps |  | Rest 2 minutes |  | 1,000 meter Run / Sandbag Lunges (100/70 lb) |  | Rest 2 minutes |  | 1,000 meter Run / Wall Ball Shots (20/14 lb) |  | Time Cap: 60 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 163,
+      "title": "Nicks",
+      "workout": "For Time (with a Partner) | 1,000 meter Run |  | Then, 2 Rounds of: | 100 meter Sandbag Lunges (100/70 lb) | 100 meter Kettlebell Farmer&#039;s Carry (as heavy as possible) | 100 meter Burpee Broad Jumps |  | 1,000 meter Run |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 164,
+      "title": "Lewis",
+      "workout": "AMRAP in 30 minutes | 500 meter Row | 50 Lunges | 500 meter Ski Erg | 50 Air Squats | 500 meter Run | 50 Push-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 165,
+      "title": "Smith",
+      "workout": "For Time (with a Partner) | 30-20-10-20-30 reps of: | Calorie Row | Wall Ball Shots (20/14 lb) | Burpees |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 166,
+      "title": "Andr\u00c3\u00a9",
+      "workout": "For Time | 1,000 meter Row | 50 Burpees | 800 meter Row | 40 Burpees | 600 meter Row | 30 Burpees | 400 meter Row | 20 Burpees | 200 meter Row | 10 Burpees |  | Time Cap: 40 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 167,
+      "title": "Richie",
+      "workout": "2 Rounds for Time | 500 meter Ski Erg | 20 Burpees | 20 Wall Ball Shots (20/14 lb) | 500 meter Row |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 168,
+      "title": "Jones",
+      "workout": "AMRAP in 30 minutes | 400 meter Run | 30 Air Squats | 400 meter Run | 15 Push-Ups | 400 meter Run | 30 Burpee Broad Jumps",
+      "type": "Hyrox"
+    },
+    {
+      "id": 169,
+      "title": "Cash",
+      "workout": "AMRAP (with a Partner) in 20 minutes | 20 calorie Ski Erg | 20 Sandbag Lunges  | 20 Burpee Broad Jumps",
+      "type": "Hyrox"
+    },
+    {
+      "id": 170,
+      "title": "Berry",
+      "workout": "10 Rounds for Time (with a Partner) | 300 meter Ski Erg | 20 Wall Ball Shots (20/14 lb) | 25 meter Sled Pulls |  | Time Cap: 60 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 171,
+      "title": "Nicholas",
+      "workout": "For Time | 2,000 meter Run | Rest 5 minutes | 100 Burpees | Rest 5 minutes | 2,000 meter Run |  | Time Cap: 50 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 172,
+      "title": "Gabriel",
+      "workout": "3 Rounds for Time | 25 meter Farmer's Carry | 25 meter Walking Lunges | 25 Kettlebell Swings | 25 Goblet Squats |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 173,
+      "title": "Miami Edition",
+      "workout": "Every Minute on the Minute for 10 minutes | 12 Wall Ball Shots (20/14 lb)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 174,
+      "title": "Morrison",
+      "workout": "Three Parts with a Running Clock | Part A | 10 Rounds of: | 30 second Sprint | 30 second Rest |  | Part B | 4 Rounds for Time | 20 Wall Ball Shots (20/14 lb) | 10 Alternating Kettlebell Lunges (2x24/16 kg) |  | Part C | 2 Rounds for Load | 25 meter Sled Push",
+      "type": "Hyrox"
+    },
+    {
+      "id": 175,
+      "title": "King",
+      "workout": "For Time | 10-8-6-4-2  Deadlifts (increase load every round) |  | Then, 2 Rounds of: | 40 Box Jumps (24/20 in) | 40 Alternating Lunges | 40 calorie Row | 40 Sit-Ups | 40 Wall Ball Shots (20/14 lb) |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 176,
+      "title": "Presley",
+      "workout": "4 Rounds for Time | 1,000 meter Run | 25 meter Sled Push | 1,000 meter Run | 25 meter Sled Pull |  | Time Cap: 80 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 177,
+      "title": "Turner",
+      "workout": "With a Running Clock for Total Reps | 4 Rounds of: | 30 second Farmer&#039;s Carry (as heavy as possible) | 30 second Rest |  | Then, 4 Rounds of: | 5 Strict Pull-Ups | 30 second Rest |  | Finally, AMRAP in 30 minutes of: | 400 meter Run | 25 Wall Ball Shots (20/14 lb) | 400 meter Run | 25 meter Sled Push  | 400 meter Run | 25 Wall Ball Shots (20/14 lb)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 178,
+      "title": "Starr",
+      "workout": "For Time | 1,600 meter Run | 30 Mountain Climbers | 1,200 meter Run | 30 Alternating Kettlebell Lunges (2x24/16 kg) | 800 meter Run | 30 Goblet Squats (24/16 kg) | 400 meter Run | 30 Wall Ball Shots (20/14 lb) |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 179,
+      "title": "Winehouse",
+      "workout": "15 Rounds for Total Reps | 5 Rounds of: | 25 meter Sled Push | 90 second Rest |  | Then, 5 Rounds of: | 25 meter Sled Pull | 90 second Rest |  | Finally, 5 Rounds of: | 1 minute Wall Ball Shots (20/14 lb) | 30 second Rest | 1 minute Burpee Broad Jumps | 30 second Rest | 1 minute Row for Calories | 30 second Rest | 1 minute 10 meter Shuttle Runs | 30 second Rest",
+      "type": "Hyrox"
+    },
+    {
+      "id": 180,
+      "title": "Zuma",
+      "workout": "10 Rounds for Total Reps in 20 minutes | 40 second Air Squats | 40 second Burpees | 40 second Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 181,
+      "title": "Streisand",
+      "workout": "AMRAP in 45 minutes | From 0:00-20:00, AMRAP of: | 25 Wall Ball Shots (20/14 lb) | 400 meter Run |  | Rest 5 minutes |  | From 25:00-45:00, AMRAP of: | 25 Burpee Broad Jumps | 400 meter Row",
+      "type": "Hyrox"
+    },
+    {
+      "id": 182,
+      "title": "Braxton",
+      "workout": "3 Rounds for Time | 800 meter Run | 50 Weighted Step-Ups (24/20 in, 2x50/35 lb) | 50 Push-Ups |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 183,
+      "title": "Elliott",
+      "workout": "For Time | 10-9-8-7-6-5-4-3-2-1 Burpees | 400 meter Run |  | Time Cap: 35 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 184,
+      "title": "Costello",
+      "workout": "10 Rounds for Time | 400 meter Run |  | Rest 2 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 185,
+      "title": "Stone",
+      "workout": "4 Rounds for Time | 400 meter Row | 12 Weighted Alternating Lunges | 25 meter Sled Push | 25 meter Sled Pull |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 186,
+      "title": "Bowie",
+      "workout": "With a Running Clock for Load and Time | 10-8-6-4-2 reps of: | Back Squats (increase weight each round) |  | Directly into, 30-20-10 reps of:* | Burpees | Alternating Lunges | V-Ups |  | *Time Cap: 20 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 187,
+      "title": "Orbison",
+      "workout": "EMOM for 20 minutes | 4 Burpees | 6 Air Squats | 8 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 188,
+      "title": "Hill",
+      "workout": "For Time | 50-40-30-20-10 reps of: | Air Squats | Mountain Climbers | 10 meter Shuttle Run |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 189,
+      "title": "Richards",
+      "workout": "5 Rounds for Total Calories in 75 minutes | 200 meter Run | 5 minute calorie SkiErg | 5 minute calorie Row |  | Rest 3 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 190,
+      "title": "Simmons",
+      "workout": "For Time | 800 meter Row | 35 Back Squats | 35 Push-Ups | 35 Deadlifts | 800 meter Row |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 191,
+      "title": "Legend",
+      "workout": "Four Tabatas for Total Reps in 19 minutes | Tabata Burpees | Tabata Lunges | Tabata Sit-Ups | Tabata Air Squats |  | Rest 1 minute between Tabatas",
+      "type": "Hyrox"
+    },
+    {
+      "id": 192,
+      "title": "Cooper",
+      "workout": "10 Rounds for Time | 10 Burpees | 10 Air Squats | 10 Push-Ups | 10 Sit-Ups |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 193,
+      "title": "Vandross",
+      "workout": "For Time | 6 Rounds of: | 15 calorie SkiErg | 15 Burpees |  | Rest 5 minutes |  | Directly into, 3 Rounds of: | 30 Wall Ball Shots (20/14 lb) | 500 meter Row |  | Time Cap: 50 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 194,
+      "title": "Williams",
+      "workout": "3 Rounds for Total Reps in 17 minutes | 1 minute Wall Ball Shots (20/14 lb) | 1 minute Burpees | 1 minute Box Jumps (24/20 in) | 1 minute Lunges | 1 minute Calorie Row | 1 minute Rest",
+      "type": "Hyrox"
+    },
+    {
+      "id": 195,
+      "title": "Clark",
+      "workout": "For Time | 10-9-8-7-6-5-4-3-2-1 Burpee Broad Jumps  | 200 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 196,
+      "title": "Withers",
+      "workout": "For Time | 1,500 meter Run | 50 Burpee Broad Jumps |  | 1,000 meter Run | 40 Burpee Broad Jumps |  | 500 meter Run | 30 Burpee Broad Jumps",
+      "type": "Hyrox"
+    },
+    {
+      "id": 197,
+      "title": "Lennon",
+      "workout": "For Time | 5 Rounds of: | 1,000 meter Run | 25 Push-Ups |  | Rest 5 minutes |  | Then, 4 Rounds of: | 500 meter Row |  | Rest 1 minute |  | Time Cap: 55 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 198,
+      "title": "Timberlake",
+      "workout": "Part A | 5 Rounds for Load | 8 Bench Presses | 8 Deadlifts | 8 Back Squats |  | Rest 3 minutes between rounds |  | Part B | 10 Rounds for Time | 250 meter Row | 25 meter Burpee Broad Jumps | 25 Sit-Ups |  | Time Cap: 40 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 199,
+      "title": "Green",
+      "workout": "For Time | 5,000 meter Run |  | Directly into, 10 Rounds of: | 10 Air Squats | 10 Push-Ups | 10 Sit-Ups |  | Finally into: | 5,000 meter Run |  | Time Cap: 100 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 200,
+      "title": "Rose",
+      "workout": "2 Rounds for Time | 400 meter Run | 25 meter Walking Lunges | 200 meter Run | 25 meter Burpee Broad Jumps |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 201,
+      "title": "Marley",
+      "workout": "For Time | Part A | 5 Rounds of: | 10 Bench Presses | 10 Deadlifts | 10 Back Squats |  | Part B | 10 Rounds of: | 500 meter Run (75% max effort) | Rest 3 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 202,
+      "title": "Mercury",
+      "workout": "For Time | 5 Rounds of: | 400 meter Run | 25 meter Sled Push |  | Rest 5 minutes |  | Directly into, 5 Rounds of: | 400 meter Run | 25 meter Sled Pull |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 203,
+      "title": "Harris",
+      "workout": "AMRAP in 20 minutes | 5 Wall Walks | 10 Burpee Broad Jumps | 15 Air Squats | 20 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 204,
+      "title": "Carey",
+      "workout": "For Time | 5,000 meter Run |  | Every 3 minutes, perform: | 10 Burpees | 10 Plank Push-Ups | 10 Alternating Lunges |  | Time Cap: 40 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 205,
+      "title": "Lopez",
+      "workout": "AMRAP in 60 minutes | 800 meter Run | 25 meter Sled Push | 25 Wall Ball Shots (20/14 lb) | 25 meter Sled Push",
+      "type": "Hyrox"
+    },
+    {
+      "id": 206,
+      "title": "Steward",
+      "workout": "6 Rounds for Load | 5 Bench Presses | 5 Back Squats | 5 Deadlifts |  | Rest 3 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 207,
+      "title": "Wonder",
+      "workout": "For Time | 10,000 meter Run | 50 Burpees |  | Time Cap: 70 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 208,
+      "title": "Shaggy",
+      "workout": "10 Rounds for Total Reps in 10 minutes | Every 30 seconds, AMRAP of: | 25 meter Shutter Run |  | Rest 30 seconds",
+      "type": "Hyrox"
+    },
+    {
+      "id": 209,
+      "title": "Sting",
+      "workout": "For Time | 50-40-30-20-10 reps of: | Calorie Row | Burpees | Alternating Lunges |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 210,
+      "title": "Cobain",
+      "workout": "For Time | 150 Wall Ball Shots (20/14 lb) |  | Rest 4 minutes |  | 100 Burpees |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 211,
+      "title": "Santana",
+      "workout": "10 Rounds for Time | 400 meter Run | Rest 3 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 212,
+      "title": "George",
+      "workout": "For Time | 1,000 meter Run |  | Then, 5 Rounds of: | 20 Air Squats | 20 Burpees | 20 Sit-Ups | 20 Push-Ups |  | 1,000 meter Run |  | Time Cap: 30 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 213,
+      "title": "Dylan",
+      "workout": "7 Rounds for Time | 500 meter Row | 25 meter Sled Push | 500 meter Run |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 214,
+      "title": "Jackson",
+      "workout": "5 Rounds for Time | 1,000 meter Run | 1,000 meter Row | 30 Wall Ball Shots (20/14 lb) |  | Time Cap: 60 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 215,
+      "title": "Spears",
+      "workout": "For Time | 3,000 meter Run |  | Every 3 minutes, perform: | 10 Burpee Broad Jumps | 10 Alternating Lunges |  | Time Cap: 25 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 216,
+      "title": "Houston",
+      "workout": "For Time | 10-9-8-7-6-5-4-3-2-1 reps of: | Jump Squats | Sit-Ups | Burpees |  | Time Cap: 20 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 217,
+      "title": "VCF Bodyweight Qualifier 20.5",
+      "workout": "For Time | 150 Burpees |  | Every 15 Burpees, perform: | 10 Air Squats | 10 Lunges",
+      "type": "Hyrox"
+    },
+    {
+      "id": 218,
+      "title": "VCF Bodyweight Qualifier 20.4",
+      "workout": "AMRAP in 20 minutes | 1 Burpee | 2 Burpees |  | 2 Burpees | 4 Jumping Lunges |  | Continue with this pattern, adding 1 Burpee and 2 Jumping Lunges after every round.",
+      "type": "Hyrox"
+    },
+    {
+      "id": 219,
+      "title": "VCF Bodyweight Qualifier 20.3",
+      "workout": "For Time | Buy-In: 50 Sit-Ups |  | Directly into: | 50-40-30-20-10 Air Squats | 5-10-15-20-25 Hand Release Push-Ups |  | Cash-Out: 50 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 220,
+      "title": "VCF Bodyweight Qualifier 20.2",
+      "workout": "For Time | 3 Rounds of: | 20 Mountain Climbers | 15 Jumping Squats | 10 Burpees |  | 50 Jumping Jacks |  | Directly into, 2 Rounds of: | 20 Mountain Climbers | 15 Jumping Squats | 10 Burpees |  | 50 Jumping Jacks |  | Finally, 1 Round of: | 20 Mountain Climbers | 15 Jumping Squats | 10 Burpees",
+      "type": "Hyrox"
+    },
+    {
+      "id": 221,
+      "title": "VCF Bodyweight Qualifier 20.1",
+      "workout": "AMRAP in 20 minutes | 10 Burpees | 10 Lunges | 10 Air Squats |  | Continue with this pattern, adding 5 reps to each movement after every round.",
+      "type": "Hyrox"
+    },
+    {
+      "id": 222,
+      "title": "VCF Equipment Qualifier 20.5",
+      "workout": "For Time | 800 meter Medicine Ball Run (20/14 lb) |  | Directly into, 2 Rounds of: | 20 Medicine Ball Ground-to-Overheads (20/14 lb) | 20 Dumbbell Lunges (2x35/20 lb) |  | 400 meter Medicine Ball Run (20/14 lb) |  | Directly into, 2 Rounds of: | 20 Devil Presses (2x35/20 lb) | 20 Dumbbell Thrusters (2x35/20 lb) |  | 800 meter Medicine Ball Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 223,
+      "title": "VCF Equipment Qualifier 20.4",
+      "workout": "For Time | 5,000 meter Row |  | Every 90 seconds, perform: | 5 Burpees over Rower",
+      "type": "Hyrox"
+    },
+    {
+      "id": 224,
+      "title": "VCF Equipment Qualifier 20.3",
+      "workout": "For Time | Buy-In: 800 meter Run |  | Directly into: | 25-20-15-10-5 Dumbbell Thrusters (2x35/20 lb) | 5-10-15-20-15 Hand Release Push-Ups |  | Cash-Out: 800 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 225,
+      "title": "VCF Equipment Qualifier 20.2",
+      "workout": "For Time | 3 Rounds of: | 20 Dumbbell Lunges (35/20 lb) | 15 Wall Ball Shots (20/14 lb, 10/9 ft) | 10 Dumbbell Burpee Deadlifts (35/20 lb) |  | Then, perform: | 50 calorie Row |  | Directly into, 2 Rounds of: | 20 Dumbbell Lunges (35/20 lb) | 15 Wall Ball Shots (20/14 lb, 10/9 ft) | 10 Dumbbell Burpee Deadlifts (35/20 lb) |  | Then, perform: | 50 calorie Row |  | Finally, complete: | 20 Dumbbell Lunges (35/20 lb) | 15 Wall Ball Shots (20/14 lb, 10/9 ft) | 10 Dumbbell Burpee Deadlifts (35/20 lb)",
+      "type": "Hyrox"
+    },
+    {
+      "id": 226,
+      "title": "VCF Equipment Qualifier 20.1",
+      "workout": "AMRAP in 30 minutes | 400 meter Run | 10 meter Burpee Broad Jumps* | 10 meter Dumbbell Walking Lunges (2x35/20 lb)* | 10 Dumbbell Thrusters (2x35/20 lb)* |  | *Add 5 meters and 5 Thrusters after every round.",
+      "type": "Hyrox"
+    },
+    {
+      "id": 227,
+      "title": "Biggie",
+      "workout": "5 Rounds in 30 minutes | 1 minute Wall Ball Shots (20/14 lb) | 30 second Rest | 1 minute Burpee Broad Jumps | 30 second Rest | 1 minute Calorie Row | 30 second Rest | 1 minute 10 meter Shuttle Run | 30 second Rest",
+      "type": "Hyrox"
+    },
+    {
+      "id": 228,
+      "title": "Zeppelin",
+      "workout": "For Time | 1,500 meter Run | 100 Wall Ball Shots (20/14 lb) | 80 Alternating Lunges | 60 Burpees | 40 Sit-Ups | 20 Push-Ups | 1,500 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 229,
+      "title": "Combs",
+      "workout": "For Time | 60 Air Squats | 400 meter Run |  | 40 Air Squats | 800 meter Run |  | 20 Air Squats | 1,600 meter Run |  | Time Cap: 35 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 230,
+      "title": "Domino",
+      "workout": "For Time | 5 minute Run | 50 Air Squats | 5 minute Run | 50 Burpees | 5 minute Run | 50 Push-Ups | 5 minute Run | 50 Sit-Ups |  | Time Cap: 45 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 231,
+      "title": "Beverly Hills",
+      "workout": "AMRAP in 25 minutes | Complete 5 rounds of: | 40 second Max Wall Ball Shots (20/14 lb) | 20 second Rest | 40 second Max Calorie Ski Erg | 20 second Rest | 40 second Max Lunges | 20 second Rest | 40 second Max Burpees | 20 second Rest | 40 second Max V-Ups | 20 second Rest",
+      "type": "Hyrox"
+    },
+    {
+      "id": 232,
+      "title": "Wyck",
+      "workout": "For Time | 400 meter Run | 20 Burpees | 600 meter Run | 40 Wall Ball Shots (20/14 lb) | 800 meter Run | 60 Sandbag Lunges (60/40 lb) | 1,000 meter Run | 60 Sandbag Lunges (60/40 lb) | 800 meter Run | 40 Wall Ball Shots (20/14 lb) | 600 meter Run | 20 Burpees | 400 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 233,
+      "title": "Bordesley",
+      "workout": "For Time | 400 meter Row | 30 Wall Ball Shots (20/14 lb) | 400 meter Run | 30 Burpees | 400 meter Row | 30 Sandbag Lunges (60/40 lb) | 400 meter Run | 30 Hand Release Push-Ups | 400 meter Row | 100 meter Farmer&#039;s Carry (2x50/35 lb) | 400 meter Run | 100 Sit-Ups",
+      "type": "Hyrox"
+    },
+    {
+      "id": 234,
+      "title": "Telliskivi",
+      "workout": "For Time | Buy-In: 1,000 meter Run |  | Then, AMRAP in 35 minutes: | 5 Burpees | 10 Wall Ball Shots (20/14 lb) | 15 calorie Row | 20 Sandbag Lunges (60/40 lb) | 25 Sit-Ups | 30 meter Farmer&#039;s Carry (2x50/35 lb) |  | Cash-Out: 1,000 meter Run",
+      "type": "Hyrox"
+    },
+    {
+      "id": 235,
+      "title": "Changning",
+      "workout": "AMRAP in 30 minutes | 10 Burpee Broad Jumps | 20 Push-Ups | 30 Sandbag Lunges (60/40 lb) | 40 calorie Row",
+      "type": "Hyrox"
+    },
+    {
+      "id": 236,
+      "title": "Thompson",
+      "workout": "8 Rounds for Time | 25 meter Sled Push (as heavy as possible ) | 20 Alternating Lunges |  | Rest 2 minutes",
+      "type": "Hyrox"
+    },
+    {
+      "id": 237,
+      "title": "Cooper",
+      "workout": "10 Rounds For time: | 10 Burpees | 10 Air Squats | 10 Push-Ups | 10 Sit-Ups",
+      "type": "Hyrox"
+    }
+  ]
+}
